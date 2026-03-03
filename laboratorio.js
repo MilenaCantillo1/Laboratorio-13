@@ -41,5 +41,3 @@ function salir(){
 alert("Saliendo de la calculadora...");
 window.close();
 }
-
-
